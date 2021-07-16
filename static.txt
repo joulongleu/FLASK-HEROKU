@@ -1,0 +1,4 @@
+href="{{ url_for('static', filename='./styles/app.css') }}"
+href="{{ url_for('static', filename='./scripts/app.js') }}"
+
+href="./styles/app.css"
